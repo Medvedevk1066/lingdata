@@ -2,6 +2,7 @@
 ## Well, it was blank before.
 
 We've got a list of lessons:
+
 *Several **Good** lessons
  *IT
 *Several **Bad** lessons
